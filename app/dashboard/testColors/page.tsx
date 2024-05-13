@@ -3,7 +3,7 @@ import getAllColors, { Palette } from "../../lib/tests"
 import MyPalette from "./myPalette"
 
 export const metadata: Metadata = {
-    title: "Palette Color"
+    title: "Color Palette"
 }
 
 export default async function Page() {
